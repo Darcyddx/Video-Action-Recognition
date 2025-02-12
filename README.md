@@ -201,18 +201,18 @@ series = {WWW '25 Companion}
 
 </details>
 
-### Dynamic Skeletons-based Methods
+### Skeletons-based Methods
 
 <details>
 <summary>Click to expand Table 7</summary>
 
 | Model                                         | Venue        | Learning         | Dataset                                                                | Modality                                       | Code |
 |-----------------------------------------------|--------------|------------------|------------------------------------------------------------------------|-----------------------------------------------|------|
-| [Dynamic Skeletons]()                         | CVPR 2015    | Supervised       | MSRDailyActivity, CAD-60, SYSU 3D HOI                                    | Depth + Joint                                  | [GitHub]() |
-| [HBRNN-L]()                                   | CVPR 2015    | Supervised       | MSRAction3D, Berkeley MHAD, HDM05                                       | Joint                                          | [GitHub]() |
-| [Part-aware LSTM]()                           | CVPR 2016    | Supervised       | NTU RGB+D                                                               | RGB + Depth + Joint + Infrared                | [GitHub]() |
-| [LARP-SO]()                                   | CVPR 2016    | Supervised       | Florence3D-Action, MSRActionPairs3D, G3D-Gaming                         | Joint                                          | [GitHub]() |
-| [STA-LSTM]()                                  | AAAI 2017    | Supervised       | NTU RGB+D                                                               | Joint                                          | [GitHub]() |
+| [Dynamic Skeletons](https://ieeexplore.ieee.org/document/7299172)                         | CVPR 2015    | Supervised       | MSRDailyActivity, CAD-60, SYSU 3D HOI                                    | Depth + Joint                                  | - |
+| [HBRNN-L](https://ieeexplore.ieee.org/document/7298714)                                   | CVPR 2015    | Supervised       | MSRAction3D, Berkeley MHAD, HDM05                                       | Joint                                          | - |
+| [Part-aware LSTM](https://arxiv.org/abs/1604.02808)                           | CVPR 2016    | Supervised       | NTU RGB+D                                                               | RGB + Depth + Joint + Infrared                | [GitHub](https://github.com/shahroudy/NTURGB-D) |
+| [LARP-SO](https://ieeexplore.ieee.org/document/7780853)                                   | CVPR 2016    | Supervised       | Florence3D-Action, MSRActionPairs3D, G3D-Gaming                         | Joint                                          | - |
+| [STA-LSTM](https://arxiv.org/abs/1611.06067)                                  | AAAI 2017    | Supervised       | NTU RGB+D                                                               | Joint                                          | - |
 | [LieNet]()                                    | CVPR 2017    | Supervised       | NTU RGB+D, HDM05, G3D-Gaming                                           | Joint + Bone                                   | [GitHub]() |
 | [Two-Stream RNN]()                            | CVPR 2017    | Supervised       | NTU RGB+D                                                               | Joint                                          | [GitHub]() |
 | [Ke et al.]()                                 | CVPR 2017    | Supervised       | NTU RGB+D                                                               | Joint                                          | [GitHub]() |
