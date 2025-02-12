@@ -28,7 +28,7 @@ series = {WWW '25 Companion}
 ```
 ---
 
-## Methods Used in The Journey of Action Recognition 🧰
+## 🧰 Methods Used in The Journey of Action Recognition 
 
 ### Handcrafted Methods
 
