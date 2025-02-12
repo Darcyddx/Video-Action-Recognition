@@ -1,10 +1,10 @@
 # Video-Action-Recognition
 
-### 🔥🔥🔥[The Journey of Action Recognition]()✈️
+### 🔥🔥🔥[The Journey of Action Recognition](https://leiwangr.github.io/files/xi-ar.pdf)✈️
 
 > 👋👋👋 A collection of papers and resources related to Large Language Models in video domain🎞️. 
 >
-> 📌 More details please refer to our [paper](). 
+> 📌 More details please refer to our [paper](https://leiwangr.github.io/files/xi-ar.pdf). 
 >
 > 🛠️ Please let us know if you find out a mistake or have any suggestions by e-mail: Xi.Ding1@anu.edu.au
 
@@ -28,7 +28,7 @@ series = {WWW '25 Companion}
 ```
 ---
 
-## Methods Used in The Journey of Action Recognition
+## Methods Used in The Journey of Action Recognition 🧰
 
 ### Handcrafted Methods
 
