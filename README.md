@@ -20,6 +20,7 @@ If you find our work useful for your research, please cite the following paper:
 ```
 ---
 
+## Methods Used in The Journey of Action Recognition
 
 ### Handcrafted Methods
 
@@ -342,3 +343,5 @@ If you find our work useful for your research, please cite the following paper:
 
 </details>
 
+## ❤️‍🔥❤️‍🔥❤️‍🔥 Contribution
+We warmly invite everyone to contribute to this repository and help enhance its quality and scope. Feel free to submit pull requests to add new methods, datasets or other useful resources, as well as to correct any errors you discover. To ensure consistency, please format your pull requests using our tables' structures. We greatly appreciate your valuable contributions and support!
