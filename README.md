@@ -13,12 +13,11 @@
 If you find our work useful for your research, please cite the following paper:
 
 ```bibtex
-
-```
 @article{dingjourney,
   title={The Journey of Action Recognition},
   author={Ding, Xi and Wang, Lei}
 }
+```
 ---
 
 
