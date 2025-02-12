@@ -18,6 +18,21 @@ If you find our work useful for your research, please cite the following paper:
   author={Ding, Xi and Wang, Lei}
 }
 ```
+
+```bibtex
+@inproceedings{ding2024language,
+title={The Journey of Action Recognition},
+author={Ding, Xi and Wang, Lei},
+year={2025},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+abstract = {Action recognition has evolved from a niche research area into a fundamental aspect of video understanding, driven by the dynamic interplay between data, model architectures, and learning paradigms. Early studies, constrained by limited datasets and handcrafted features, laid the groundwork for the field, but the rapid growth of data and advancements in deep learning techniques ignited a revolution. From 2D- and 3D-CNNs to spatiotemporal graph convolutional networks, these models have advanced the ability to capture complex, multidimensional actions across increasingly diverse and multimodal datasets. Simultaneously, innovative learning paradigms such as self-supervised, few-shot, and zero-shot learning have transformed how we use data, enabling models to generalize across tasks with minimal labeled data. The advent of transformer-based architectures has catalyzed a new era in action recognition, excelling in capturing long-range temporal dependencies and overcoming previous limitations in spatiotemporal modeling. Furthermore, the rise of video masked autoencoders has introduced new ways to balance spatial and temporal information, leading to breakthroughs in understanding motion dynamics. This paper presents a comprehensive exploration of action recognition through three critical lenses: the evolution of model architectures, the expanding diversity of data, and the emergence of innovative learning techniques. By tracing the trajectory of these developments, we highlight how the convergence of these elements has broadened the scope of action recognition to tackle more complex video processing challenges, including anomaly detection, captioning, and video question answering. In particular, we underscore the transformative role of large language models in infusing semantic context, significantly enhancing the performance and versatility of action recognition systems. Our work not only reflects on the past but also provides a roadmap for future advancements. We reveal how action recognition has transcended its original focus, positioning itself at the heart of general video analysis. By synthesizing these insights, we offer a forward-thinking perspective on how the integration of multimodal, temporal, and semantic information will shape the future of AI-powered video understanding.},
+booktitle = {Companion Proceedings of the ACM Web Conference 2025},
+keywords = {Language language models, Videos, Temporal, Interaction},
+location = {Sydney, NSW, Australia},
+series = {WWW '25 Companion}
+}
+```
 ---
 
 ## Methods Used in The Journey of Action Recognition
