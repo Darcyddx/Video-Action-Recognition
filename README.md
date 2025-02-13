@@ -28,6 +28,32 @@ series = {WWW '25 Companion}
 ```
 ---
 
+## 🚀 News
+- \[10/02/2025\] 🎁 The GitHub repository for our paper has been released.
+- \[27/01/2025\] 🎈 Our paper has been accepted as an oral presentation at the Companion Proceedings of The Web Conference 2025 (WWW 2025)
+
+## 🔦 Table of Contents
+
+- [Video-Action-Recognition](#video-action-recognition)
+  - [🔥🔥🔥 The Journey of Action Recognition](#video-action-recognition)
+  - [📑 Citation](#-citation)
+  - [🚀 News](#-news)
+  - [🧰 Methods Used in The Journey of Action Recognition](#-methods-used-in-the-journey-of-action-recognition)
+    - [Handcrafted Methods](#handcrafted-methods)
+    - [2D-based Methods](#2d-based-methods)
+    - [3D-based Methods](#3d-based-methods)
+    - [Two-stream Methods](#two-stream-methods)
+    - [(2+1)D-based Methods](#21d-based-methods)
+    - [Transformer-based Methods](#transformer-based-methods)
+    - [Skeletons-based Methods](#skeletons-based-methods)
+    - [Depth-based Methods](#depth-based-methods)
+    - [Infrared-based Methods](#infrared-based-methods)
+    - [Point Cloud Methods](#point-cloud-methods)
+    - [Text/Audio Methods](#textaudio-methods)
+  - [💻 Datasets Used in The Journey of Action Recognition](#-datasets-used-in-the-journey-of-action-recognition)
+  - [❤️‍🔥❤️‍🔥❤️‍🔥 Contribution](#❤️‍🔥❤️‍🔥❤️‍🔥-contribution)
+
+
 ## 🧰 Methods Used in The Journey of Action Recognition 
 
 ### Handcrafted Methods
@@ -350,6 +376,9 @@ series = {WWW '25 Companion}
 | [STDD](https://arxiv.org/abs/2412.09895)                                       | arXiv 2024                  | Zero-shot      | Kinetics-600, UCF101, HMDB51                                           | RGB + Text                                    | [GitHub](https://github.com/mia-yatingyu/stdd) |
 
 </details>
+
+## 💻 Datasets Used in The Journey of Action Recognition 
+
 
 ## ❤️‍🔥❤️‍🔥❤️‍🔥 Contribution
 We warmly invite everyone to contribute to this repository and help enhance its quality and scope. Feel free to submit pull requests to add new methods, datasets or other useful resources, as well as to correct any errors you discover. To ensure consistency, please format your pull requests using our tables' structures. We greatly appreciate your valuable contributions and support!
