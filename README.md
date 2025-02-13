@@ -379,6 +379,69 @@ series = {WWW '25 Companion}
 
 ## 💻 Datasets Used in The Journey of Action Recognition 
 
+<details>
+<summary>Click to expand Table 12</summary>
+
+| Datasets | Year | # Classes | # Subjects | # Views | # Video clips | Sensor | Modalities | Dataset type |
+|----------|------|-----------|------------|---------|--------------|--------|------------|--------------|
+| [KTH]() | 2004 | 6 | 25 | 1 | 2391 | Static camera | RGB | Human actions (e.g., walking, jogging) |
+| [Weizmann]() | 2005 | 10 | 9 | 1 | 90 | - | RGB | Human actions (e.g., jumping, running) |
+| [IXMAS]() | 2006 | 11 | 10 | 5 | 330 | - | RGB | Movie Scenes (e.g., kissing, running) |
+| [Hollywood]() | 2008 | 8 | - | - | 1422 | - | RGB | Movie Scenes (e.g., eating, driving) |
+| [Hollywood2]() | 2009 | 12 | - | - | 1709 | - | RGB | Movie Scenes (e.g., running, kissing) |
+| [ADL]() | 2009 | 10 | 5 | - | 150 | Static camera | RGB | Daily Activities (e.g., brushing teeth, reading) |
+| [Olympic Sports]() | 2010 | 16 | - | - | 783 | - | RGB | Sports (e.g., high jumping, diving) |
+| [MSRAction3D]() | 2010 | 20 | 10 | 1 | 567 | Kinect v1 | Depth+3DJoints | Daily Activities (e.g., drinking, walking) |
+| [CAD-60]() | 2011 | 14 | 4 | - | 68 | Kinect v1 | RGB+Depth+3DJoints | Human performing activities (e.g., cleaning objects) |
+| [HMDB51]() | 2011 | 51 | - | - | 6,766 | - | RGB | Human actions (e.g., jumping, running) |
+| [MSRDailyActivity3D]() | 2012 | 16 | 10 | 1 | 320 | Kinect v1 | RGB+Depth+3DJoints | Daily Activities (e.g., calling, playing game) |
+| [UCF101]() | 2012 | 101 | - | - | 13,320 | - | RGB | Body motion, Human-object interactions, sports etc. |
+| [UTKinect-Action3D]() | 2012 | 10 | 10 | 1 | 199 | Kinect v1 | RGB+Depth+3DJoints | Human actions (e.g., waving hands, pushing) |
+| [MPII Cooking]() | 2012 | 64 | 12 | 1 | 3,748 | - | RGB | Cooking |
+| [G3D-Gaming]() | 2012 | 20 | 10 | 1 | - | Kinect v1 | RGB+Depth+3DJoints | Gaming scenario (e.g., defending, climbing) |
+| [Berkeley MHAD]() | 2013 | 11 | 12 | 4 | 660 | Multi-baseline stereo cameras | RGB+Depth+3DJoints+Accelerometer+Audio | Human actions (e.g., throwing, clapping hands) |
+| [CAD-120]() | 2013 | 10 | 4 | - | 120 | Kinect v1 | RGB+Depth+3DJoints | Human performing activities (e.g., picking objects) |
+| [UCF50]() | 2013 | 50 | - | - | 6676 | - | RGB | Body motion, Human-object interactions, sports etc. |
+| [Florence3D-Action]() | 2013 | 9 | 10 | 1 | 215 | Kinect v1 | RGB+Depth+3DJoints | Human actions (e.g., bowing, drinking) |
+| [MSRActionPairs3D]() | 2013 | 12 | 10 | 1 | 360 | Kinect v1 | RGB+Depth+3DJoints | Human actions (e.g., picking up, putting down) |
+| [Sports-1M]() | 2014 | 487 | - | - | 1,000,000 | - | RGB | Sports (e.g., swimming, skiing) |
+| [THUMOS14]() | 2014 | 101 | - | - | 5,613 | - | RGB | Human Actions (e.g., making up, archery) |
+| [Northwestern-UCLA]() | 2014 | 10 | 10 | 3 | 1494 | Kinect v1 | RGB+Depth+3DJoints | Human actions (e.g., dropping trash) |
+| [UWA3D Multiview Activity]() | 2014 | 30 | 10 | 1 | 701 | Kinect v1 | RGB+Depth+3DJoints | Daily Activities (e.g., holding head, walking) |
+| [ActivityNet]() | 2015 | 203 | - | - | 27,801 | - | RGB | Human actions (e.g., drawing, washing) |
+| [MPII Cooking 2]() | 2015 | 67 | 30 | 1 | 273 | Static camera | RGB | Cooking |
+| [UWA3D Multiview Activity II]() | 2015 | 30 | 9 | 4 | 1,070 | Kinect v1 | RGB+Depth+3DJoints | Daily Activities (e.g., waving head, jumping) |
+| [SYSU 3D HOI]() | 2015 | 12 | 40 | - | 480 | Kinect v1 | RGB+Depth+3DJoints | Human-Object Interactions (e.g., sweeping the floor) |
+| [NTU RGB+D]() | 2016 | 60 | 40 | 80 | 56,880 | Kinect v2 | RGB+Depth+3DJoints | Daily actions, health-related actions etc. |
+| [InfAR]() | 2016 | 12 | 40 | - | 600 | Infrared camera | Infrared | Human actions (e.g., jogging) |
+| [TSF]() | 2016 | 2 | - | 1 | 44 | FLIR ONE | Infrared | Falls and normal activities |
+| [Charades]() | 2016 | 157 | - | - | 66,500 | - | RGB+Flow | Indoor activities (e.g., cleaning) |
+| [PKU-MMD I]() | 2017 | 51 | 66 | 3 | 1,076 | Kinect v2 | RGB+Depth+Infrared+3DJoints | Human actions (e.g., walking) |
+| [NfS]() | 2017 | - | - | - | 100 | 240 FPS camera | RGB | Visual object tracking |
+| [Kinetics-400]() | 2017 | 400 | - | - | 306,245 | - | RGB | Human-centered actions (e.g., playing instruments) |
+| [Something-Something V1]() | 2017 | 174 | - | - | 108,499 | - | RGB | Human performing actions with everyday objects |
+| [Kinetics-skeleton]() | 2017 | 400 | - | - | 260,232 | - | 2DJoints | Human-centered actions |
+| [HACS]() | 2017 | 200 | - | - | 1,500,000 | - | RGB+Flow | Human actions (e.g., dancing) |
+| [Charades-Ego]() | 2018 | 157 | 112 | 2 | 68,536 | Head-mounted+standard camera | RGB | Egocentric indoor activities |
+| [AVA]() | 2018 | 80 | - | - | 211,000 | - | RGB+Flow | Human actions (e.g., talking, sitting) |
+| [Diving48]() | 2018 | 48 | - | - | 18,404 | - | RGB+Flow | Diving actions |
+| [Epic-Kitchens]() | 2018 | 149 | 32 | - | 39,594 | - | RGB+Flow | Cooking |
+| [Something-Something V2]() | 2018 | 174 | - | - | 220,847 | - | RGB | Human performing actions with everyday objects |
+| [MiT]() | 2018 | 339 | - | - | 1,000,000+ | - | RGB+Audio+Flow | Dynamic actions (e.g., human, animals) |
+| [Kinetics-600]() | 2018 | 600 | - | - | 495,547 | - | RGB | Human-centered actions (e.g., playing instruments) |
+| [NTU RGB+D 120]() | 2019 | 120 | 106 | 155 | 114,480 | Kinect v2 | RGB+Depth+3DJoints+Infrared | Daily actions, health-related actions etc. |
+| [IITR-IAR]() | 2019 | 21 | 35 | - | 1,470 | FLIR T1020 | Infrared | Human actions (hugging, fighting) |
+| [Kinetics-700]() | 2019 | 700 | - | - | 650,317 | - | RGB | Human-centered actions (e.g., playing instruments) |
+| [HowTo100M]() | 2019 | 23,611 | - | - | 136,000,000 | - | RGB | Instructional videos (e.g., cooking) |
+| [CATER]() | 2019 | 301 | - | - | 5,500 | - | RGB | Compositional actions and temporal reasoning |
+| [FineGym]() | 2020 | 530 | - | - | 32,697 | - | RGB | Gymnasium videos (e.g., balance beam) |
+| [PKU-MMD II]() | 2020 | 41 | 13 | 3 | 1,009 | Kinect v2 | RGB+Depth+Infrared+3DJoints | Human actions (e.g., standing) |
+| [EPIC-KITCHENS-100]() | 2020 | 4,053 | 37 | - | 89,977 | GoPro Hero7 Black | RGB+Flow | Cooking |
+| [UAV-Human]() | 2021 | 155 | 119 | - | 22,476 | UAV Camera | RGB+3DJoints | Human Actions (e.g., walking, jogging) |
+
+
+</details>
+
 
 ## ❤️‍🔥❤️‍🔥❤️‍🔥 Contribution
 We warmly invite everyone to contribute to this repository and help enhance its quality and scope. Feel free to submit pull requests to add new methods, datasets or other useful resources, as well as to correct any errors you discover. To ensure consistency, please format your pull requests using our tables' structures. We greatly appreciate your valuable contributions and support!
