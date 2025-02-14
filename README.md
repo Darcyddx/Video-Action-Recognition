@@ -2,7 +2,7 @@
 
 ### 🔥🔥🔥[The Journey of Action Recognition](https://leiwangr.github.io/files/xi-ar.pdf)✈️
 
-> 👋👋👋 A collection of papers and resources related to Large Language Models in video domain🎞️. 
+> 👋👋👋 A collection of methods and datasets in the journey of action recognition. 
 >
 > 📌 More details please refer to our [paper](https://leiwangr.github.io/files/xi-ar.pdf). 
 >
