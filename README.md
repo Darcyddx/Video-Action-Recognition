@@ -9,7 +9,7 @@
 > 🛠️ Please let us know if you find out a mistake or have any suggestions by e-mail: Xi.Ding1@anu.edu.au
 
 ### 📑 Citation
-
+[![DOI](https://zenodo.org/badge/912592984.svg)](https://doi.org/10.5281/zenodo.14868304)
 If you find our work useful for your research, please cite the following paper:
 
 ```bibtex
