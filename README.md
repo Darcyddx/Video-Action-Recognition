@@ -15,19 +15,21 @@
 If you find our work useful for your research, please cite the following paper:
 
 ```bibtex
-@inproceedings{dingjourney,
-title={The Journey of Action Recognition},
-author={Ding, Xi and Wang, Lei},
-year={2025},
-isbn={9798400713316},
+@inproceedings{10.1145/3701716.3717746,
+author = {Ding, Xi and Wang, Lei},
+title = {The Journey of Action Recognition},
+year = {2025},
+isbn = {9798400713316},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
-url={https://doi.org/10.1145/3701716.3717746},
-doi={10.1145/3701716.3717746},
-booktitle = {Companion Proceedings of the ACM Web Conference 2025},
-keywords = {Action recognition, Data, Model architectures, Learning paradigm},
-location = {Sydney, NSW, Australia},
-series = {WWW '25 Companion}
+url = {https://doi.org/10.1145/3701716.3717746},
+doi = {10.1145/3701716.3717746},
+booktitle = {Companion Proceedings of the ACM on Web Conference 2025},
+pages = {1869–1884},
+numpages = {16},
+keywords = {action recognition, data, learning paradigm, model architectures},
+location = {Sydney NSW, Australia},
+series = {WWW '25}
 }
 ```
 ---
